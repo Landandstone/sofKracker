@@ -19,7 +19,11 @@ In essence, SoftKracker represents a new breed of malware – one that is highly
 As SoftKracker continues to evolve and proliferate, it serves as a stark reminder of the ever-present dangers lurking in the digital landscape. With its deceptive warnings and destructive capabilities, SoftKracker stands as a testament to the power of malicious intent in the age of technology.
 
 
+# How To Use
 INSTALL PYTHON
 INSTALL NETMAP
 
-`git clone https://github.com/Landandstone/sofKra
+`git clone https://github.com/Landandstone/sofKracker'
+
+in that directory;
+python3 softKracker.py
