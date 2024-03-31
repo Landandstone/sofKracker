@@ -22,6 +22,4 @@ As SoftKracker continues to evolve and proliferate, it serves as a stark reminde
 INSTALL PYTHON
 INSTALL NETMAP
 
-`git clone https://github.com/Landandstone/sofKracker`
-
-in that direcqssn
+`git clone https://github.com/Landandstone/sofKra
