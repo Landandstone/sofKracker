@@ -2,6 +2,7 @@
 A highly configurable virus that deletes all contents on its victims computer.
 
 MUST HAVE PYTHON INSTALLED
+MUST HAVE NMAP INSTALLED
 
 
 
