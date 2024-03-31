@@ -6,9 +6,12 @@ MUST HAVE PYTHON INSTALLED
 
 
 install
-git clone
+`
+git clonehttps://github.com/Landandstone/sofKracker.git`
+
+in directory that you downloaded it;
 run by using
-python3 softKracker.py
+`python3 softKracker.py`
 
 
 
