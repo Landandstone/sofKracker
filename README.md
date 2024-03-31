@@ -17,7 +17,7 @@ run by using
 `python3 softKracker.py`
 
 
-
+Note: Make sure to change the IP range.
 
 
 
